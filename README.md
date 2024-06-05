@@ -1,12 +1,12 @@
 # jupyterlite-ruby-kernel
 
-[![Github Actions Status](https://github.com/github_username/jupyterlite-ruby-kernel/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlite-ruby-kernel/actions/workflows/build.yml)
+[![Github Actions Status](https://github.com/formigarafa/jupyterlite-ruby-kernel/workflows/Build/badge.svg)](https://github.com/formigarafa/jupyterlite-ruby-kernel/actions/workflows/build.yml)
 
 JupyterLite Ruby Kernel Extension
 
 ## Try it in your browser
 
-https://kateinoigakukun.github.io/jupyterlite-ruby-kernel/lab/index.html
+https://formigarafa.github.io/jupyterlite-ruby-kernel/lab/index.html
 
 ## Requirements
 
